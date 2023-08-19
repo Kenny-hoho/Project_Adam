@@ -7,9 +7,9 @@
 /**
  * 
  */
-class PROJECT_ADAM_API HelpFunc
+class PROJECT_ADAM_API Main
 {
 public:
-	HelpFunc();
-	~HelpFunc();
+	Main();
+	~Main();
 };
